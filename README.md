@@ -1,2 +1,3 @@
 # NBA_project
- Predict the next Hall of Famer players
+PREDICTING THE NEXT HALL OF FAME PLAYER USING LINEAR REGRESSION AND WEB SCRAPING
+I made the decision to concentrate my linear regression assignment on the NBA because I love basketball so much. The performance rating of a player is mostly represented by their statistics, which invariably influence their selection for the Naismith Award at the end of the season. This project's objective is to use linear regression to forecast NBA players' odds of being inducted into the Hall of Fame.
